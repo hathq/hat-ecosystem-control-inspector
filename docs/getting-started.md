@@ -1,0 +1,26 @@
+# Using hat-ecosystem-control-inspector
+
+Provide the declared role interface for reviewing ecosystem management state.
+
+## Before you start
+
+The current package supplies declarations and deterministic reducer behavior. End-to-end domain judgment requires separate acceptance evidence; the package contains no credential or execution grant.
+
+## First steps
+
+Run from the repository root:
+
+```sh
+cargo test --locked
+```
+
+## How to assess the result
+
+- Validate the released inspect-ecosystem-control procedure inputs.
+- Apply exact vocabulary and revision checks without completing unknown values.
+
+A passing source-level check establishes only what that check observes. Keep missing configuration, unavailable services and unverified deployment paths visible.
+
+## Continue reading
+
+[Repository overview](../README.md)
