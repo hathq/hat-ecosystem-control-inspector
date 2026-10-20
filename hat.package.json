@@ -2,13 +2,13 @@
   "schema": "hathq://hat/package/v2",
   "package_id": "hat/ecosystem-control-inspector",
   "repository_id": "hat-ecosystem-control-inspector",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "specification_version": "1.0.0",
   "manifest": {
     "schema": "hathq://hat/manifest/v1",
     "id": "hat/ecosystem-control-inspector",
     "name": "Ecosystem Control Inspector",
-    "version": "0.10.0",
+    "version": "0.10.1",
     "capabilities": [
       "ecosystem-status-review",
       "evidence-tracing"
