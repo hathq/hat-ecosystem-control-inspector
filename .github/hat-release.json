@@ -2,5 +2,10 @@
   "repository": "hathq/hat-ecosystem-control-inspector",
   "github_id": 1400269347,
   "package_id": "hat/ecosystem-control-inspector",
-  "binary": "hat-ecosystem-control-inspector-worker"
+  "binary": "hat-ecosystem-control-inspector-worker",
+  "required_workflows": [
+    ".github/workflows/oss-policy.yml",
+    ".github/workflows/public-dependencies.yml",
+    ".github/workflows/release-hat.yml"
+  ]
 }
